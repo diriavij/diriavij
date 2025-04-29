@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 ---
-- Telegram: @nevorovkaakafoma
+- Telegram: @popovfoma
 - Email: popovfoma06@gmail.com
 ---
 - I'm a second year student at HSE, my major is software engineering.
