@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Statistical%20ML-6C63FF?style=flat-square" alt="Statistical ML">
-  <img src="https://img.shields.io/badge/Data%20Systems-0077B5?style=flat-square" alt="Data Systems">
-  <img src="https://img.shields.io/badge/Trustworthy%20AI-2E8B57?style=flat-square" alt="Trustworthy AI">
-  <img src="https://img.shields.io/badge/NLP-C55A11?style=flat-square" alt="NLP">
-  <img src="https://img.shields.io/badge/Reproducible%20Research-59636E?style=flat-square" alt="Reproducible Research">
+  🟣 <code>Statistical ML</code>&nbsp;&nbsp;
+  🔵 <code>Data Systems</code>&nbsp;&nbsp;
+  🟢 <code>Trustworthy AI</code>&nbsp;&nbsp;
+  🟠 <code>NLP</code>&nbsp;&nbsp;
+  ⚪ <code>Reproducible Research</code>
 </p>
 
 <p align="center">
