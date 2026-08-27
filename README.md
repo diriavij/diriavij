@@ -1,22 +1,32 @@
 <h1 align="center">Foma Popov</h1>
 
 <p align="center">
-  <strong>Software Engineering undergraduate · Research-oriented ML and data practitioner</strong><br>
+  <strong>Software Engineering undergraduate · Machine Learning, Data Science & Data Systems</strong><br>
   HSE University · Data Analyst at Yandex
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Statistical%20ML-6C63FF?style=flat-square" alt="Statistical ML">
+  <img src="https://img.shields.io/badge/Data%20Systems-0077B5?style=flat-square" alt="Data Systems">
+  <img src="https://img.shields.io/badge/Trustworthy%20AI-2E8B57?style=flat-square" alt="Trustworthy AI">
+  <img src="https://img.shields.io/badge/NLP-C55A11?style=flat-square" alt="NLP">
+  <img src="https://img.shields.io/badge/Reproducible%20Research-59636E?style=flat-square" alt="Reproducible Research">
 </p>
 
 <p align="center">
   <a href="mailto:popovfoma06@gmail.com">Email</a>
 </p>
 
-I work at the intersection of **machine learning, data analysis, and software
-engineering**. My main interests are probabilistic language modeling,
-information-theoretic methods for NLP, evidence-grounded LLM systems, and
-reproducible experimentation.
+I build and study **data-driven systems** at the intersection of machine
+learning, data science, and software engineering. My interests span
+**statistical machine learning, scalable data systems, trustworthy and
+explainable AI, and reproducible experimentation**, with a particular focus on
+probabilistic modeling and NLP.
 
-At Yandex, I work on product analytics, controlled experiments, ML scoring,
-and data pipelines. In research and coursework, I am particularly drawn to
-questions where careful evaluation matters as much as model implementation.
+At Yandex, I work on product analytics, experimentation, predictive modeling,
+and production data pipelines. I am particularly drawn to problems where
+mathematical foundations, careful evaluation, and reliable implementation all
+matter.
 
 ## Featured research
 
@@ -72,8 +82,12 @@ real-time room synchronization.
 
 ## Technical focus
 
-**Research and ML:** Python · PyTorch · scikit-learn · NLP · RAG · LLM
-evaluation · statistical testing · experiment design
+**ML and research:** Python · PyTorch · scikit-learn · probabilistic modeling ·
+NLP and information retrieval · RAG · LLM evaluation · statistical testing ·
+experiment design
 
-**Data and systems:** SQL · ETL · PostgreSQL · Docker · Go · Swift/UIKit · REST
-APIs · WebSockets
+**Data and systems:** SQL · ETL and data pipelines · PostgreSQL · Docker · Go ·
+REST APIs · WebSockets
+
+**Software engineering:** Go · Swift/UIKit · API design · testing ·
+reproducible tooling
