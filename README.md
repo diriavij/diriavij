@@ -1,32 +1,35 @@
 <h1 align="center">Foma Popov</h1>
 
 <p align="center">
-  <strong>Software Engineering undergraduate · Machine Learning, Data Science & Data Systems</strong><br>
-  HSE University · Data Analyst at Yandex
+  <strong>Machine Learning Research · Data Science · Software Engineering</strong><br>
+  Software Engineering undergraduate at HSE University · Data Analyst at Yandex
 </p>
 
 <p align="center">
-  🟣 <code>Statistical ML</code>&nbsp;&nbsp;
-  🔵 <code>Data Systems</code>&nbsp;&nbsp;
-  🟢 <code>Trustworthy AI</code>&nbsp;&nbsp;
-  🟠 <code>NLP</code>&nbsp;&nbsp;
-  ⚪ <code>Reproducible Research</code>
+  🧪 <strong>Research:</strong>&nbsp;
+  <code>Probabilistic ML</code>&nbsp;
+  <code>Language Modeling</code>&nbsp;
+  <code>Trustworthy AI</code><br>
+  💼 <strong>Industry:</strong>&nbsp;
+  <code>Product Analytics</code>&nbsp;
+  <code>Experimentation</code>&nbsp;
+  <code>Data Systems</code>
 </p>
 
 <p align="center">
   <a href="mailto:popovfoma06@gmail.com">Email</a>
 </p>
 
-I build and study **data-driven systems** at the intersection of machine
-learning, data science, and software engineering. My interests span
-**statistical machine learning, scalable data systems, trustworthy and
-explainable AI, and reproducible experimentation**, with a particular focus on
-probabilistic modeling and NLP.
+I work at the intersection of **machine learning research, data science, and
+software engineering**. My research interests include statistical and
+probabilistic learning, language modeling, information retrieval, and the
+reliable evaluation of AI systems. My projects combine method implementation,
+controlled experiments, statistical analysis, and reproducible artifacts.
 
-At Yandex, I work on product analytics, experimentation, predictive modeling,
-and production data pipelines. I am particularly drawn to problems where
-mathematical foundations, careful evaluation, and reliable implementation all
-matter.
+Alongside research, I work as a **Data Analyst at Yandex** on product analytics,
+experimentation, predictive modeling, and production data pipelines. This
+industry experience reinforces my interest in methods that are not only
+mathematically grounded, but also carefully evaluated and reliable in practice.
 
 ## Featured research
 
@@ -97,8 +100,9 @@ Deep Learning, and Applied Data Analysis tracks at HSE University.
 - Bachelor's student in **Software Engineering at HSE University**
 - **Data Analyst at Yandex**, working across experimentation, predictive
   modeling, analytics engineering, and AI-assisted analytical workflows
-- Student at **Yandex School of Analysts-Developers**
 - Former **Python programming instructor** for a class of 25 students
+- Student at **Yandex School of Analytics-Developers**
+- Winner, **Rosatom Mathematics Olympiad**
 
 ## Technical focus
 
