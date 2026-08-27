@@ -77,7 +77,7 @@ real-time room synchronization.
 
 ## Selected coursework
 
-### [Machine Learning Coursework Portfolio](https://github.com/diriavij/HSE-BoML-Projects)
+### [Machine Learning Coursework Portfolio](https://github.com/diriavij/ml-coursework-portfolio)
 
 A curated collection of six substantial projects from the Machine Learning,
 Deep Learning, and Applied Data Analysis tracks at HSE University.
