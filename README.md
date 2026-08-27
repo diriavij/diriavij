@@ -40,10 +40,6 @@ Research completed at the **CUHK-Shenzhen Elite Undergraduate Summer Camp
 **[Presentation](https://github.com/diriavij/ctw-language-modeling/blob/main/slides.pdf)** ·
 **[Reproduction guide](https://github.com/diriavij/ctw-language-modeling#quick-start)**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diriavij/ctw-language-modeling/main/experiments/figures/bpc_plot_2panel.png" width="780" alt="Comparison of context-tree and neural language models">
-</p>
-
 ### [LLM for ESG](https://github.com/diriavij/LLM-for-ESG)
 
 An evidence-grounded pipeline for assessing corporate sustainability reports
