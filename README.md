@@ -121,7 +121,7 @@ customer journey mapping · BI dashboards
 **Data engineering and systems:** SQL · Pandas · ETL and data pipelines ·
 distributed computing · PostgreSQL · Docker · Go · REST APIs · WebSockets
 
-**Software engineering:** Go · C++ · C# · Assembly · Swift/UIKit · API design · testing ·
+**Software engineering:** Go · C++ · C# · Java · Assembly · Swift/UIKit · API design · testing ·
 reproducible tooling
 
 **Languages:** Russian (native) · English (C1) · German (B1)
