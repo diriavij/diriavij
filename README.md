@@ -72,6 +72,26 @@ real-time room synchronization.
 - **Backend:** Go, REST API, WebSockets
 - **Data and infrastructure:** PostgreSQL, Docker Compose
 
+## Selected coursework
+
+### [Machine Learning Coursework Portfolio](https://github.com/diriavij/HSE-BoML-Projects)
+
+A curated collection of six substantial projects from the Machine Learning,
+Deep Learning, and Applied Data Analysis tracks at HSE University.
+
+- Benchmarked XGBoost, CatBoost, and LightGBM and analyzed clustering failure
+  modes on tabular data.
+- Built classical NLP pipelines with sparse text features and controlled
+  preprocessing experiments.
+- Studied neural-network optimization and regularization in PyTorch, reaching
+  **8.676 test RMSE** in a regression task.
+- Implemented face verification with pair classification and triplet loss,
+  reaching **0.8682 ROC-AUC**.
+- Compared waveform, recurrent, and spectrogram-based audio classifiers,
+  reaching **0.9401 validation accuracy**.
+- Implemented cWGAN, conditional VAE, diffusion, and RealNVP models for
+  synthetic scientific data.
+
 ## Background
 
 - Bachelor's student in **Software Engineering at HSE University**
@@ -83,8 +103,8 @@ real-time room synchronization.
 ## Technical focus
 
 **ML and research:** Python · PyTorch · scikit-learn · probabilistic modeling ·
-NLP and information retrieval · RAG · LLM evaluation · statistical testing ·
-experiment design
+NLP and information retrieval · computer vision · generative modeling · RAG ·
+LLM evaluation · statistical testing · experiment design
 
 **Data and systems:** SQL · ETL and data pipelines · PostgreSQL · Docker · Go ·
 REST APIs · WebSockets
