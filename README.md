@@ -97,8 +97,8 @@ Deep Learning, and Applied Data Analysis tracks at HSE University.
 - Bachelor's student in **Software Engineering at HSE University**
 - **Data Analyst at Yandex**, working across experimentation, predictive
   modeling, analytics engineering, and AI-assisted analytical workflows
+- Student at **Yandex School of Analysts-Developers**
 - Former **Python programming instructor** for a class of 25 students
-- Finalist, **HSE AI Assistant Hack**; winner, **Rosatom Mathematics Olympiad**
 
 ## Technical focus
 
