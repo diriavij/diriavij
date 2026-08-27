@@ -62,7 +62,7 @@ and public documents across **15 ESG indicators**.
   methods, multi-agent orchestration, and LoRA fine-tuning.
 - Evaluated scores and supporting evidence with bootstrap resampling, MAE,
   citation similarity, evidence-type accuracy, and McNemar's test.
-- Research-course project at HSE University.
+- Research-course project at HSE University; manuscript in preparation.
 
 ## Selected engineering project
 
@@ -101,17 +101,27 @@ Deep Learning, and Applied Data Analysis tracks at HSE University.
 - **Data Analyst at Yandex**, working across experimentation, predictive
   modeling, analytics engineering, and AI-assisted analytical workflows
 - Former **Python programming instructor** for a class of 25 students
-- Student at **Yandex School of Analytics-Developers**
-- Winner, **Rosatom Mathematics Olympiad**
+- Finalist, **HSE AI Assistant Hack**; winner, **Rosatom Mathematics Olympiad**
 
 ## Technical focus
 
-**ML and research:** Python · PyTorch · scikit-learn · probabilistic modeling ·
-NLP and information retrieval · computer vision · generative modeling · RAG ·
-LLM evaluation · statistical testing · experiment design
+**Machine learning and AI:** Python · PyTorch · scikit-learn · probabilistic
+modeling · transformers and attention · CNNs and transfer learning · generative
+models (VAE, GAN, diffusion) · NLP and information retrieval · computer vision
 
-**Data and systems:** SQL · ETL and data pipelines · PostgreSQL · Docker · Go ·
-REST APIs · WebSockets
+**LLM systems and evaluation:** RAG · LoRA fine-tuning · multi-agent systems ·
+AI-agent workflows · evidence-grounded generation · LLM evaluation · bootstrap
+analysis and statistical testing
 
-**Software engineering:** Go · Swift/UIKit · API design · testing ·
+**Experimentation and product analytics:** A/B testing · experiment design ·
+statistical validation · feature engineering · predictive and relevance
+scoring · anomaly detection · metric hierarchies · event instrumentation ·
+customer journey mapping · BI dashboards
+
+**Data engineering and systems:** SQL · Pandas · ETL and data pipelines ·
+distributed computing · PostgreSQL · Docker · Go · REST APIs · WebSockets
+
+**Software engineering:** Go · C++ · C# · Assembly · Swift/UIKit · API design · testing ·
 reproducible tooling
+
+**Languages:** Russian (native) · English (C1) · German (B1)
