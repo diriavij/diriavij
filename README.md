@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:popovfoma06@gmail.com">Email</a> ·
-  <a href="https://github.com/diriavij">GitHub</a>
+  <a href="mailto:popovfoma06@gmail.com">Email</a>
 </p>
 
 I work at the intersection of **machine learning, data analysis, and software
