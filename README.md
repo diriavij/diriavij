@@ -62,7 +62,7 @@ and public documents across **15 ESG indicators**.
   methods, multi-agent orchestration, and LoRA fine-tuning.
 - Evaluated scores and supporting evidence with bootstrap resampling, MAE,
   citation similarity, evidence-type accuracy, and McNemar's test.
-- Research-course project at HSE University; manuscript in preparation.
+- Research-course project at HSE University.
 
 ## Selected engineering project
 
